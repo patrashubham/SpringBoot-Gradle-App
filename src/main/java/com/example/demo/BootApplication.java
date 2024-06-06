@@ -11,7 +11,9 @@ public class BootApplication {
 
 	public static void main(String[] args) {
 		
-           //Bug-130		
+           //Bug-130
+
+          int i=10;		
 
 		SpringApplication.run(BootApplication.class, args);
 	}
