@@ -13,7 +13,8 @@ public class BootApplication {
 		
            //Bug-130
 
-          int i=10;		
+          int i=10;
+          int j=20;		
 
 		SpringApplication.run(BootApplication.class, args);
 	}
